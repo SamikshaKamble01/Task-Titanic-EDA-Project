@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview 
 This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset using Python. The goal is to understand passenger data, identify patterns, handle missing values, detect outliers, analyze relationships between variables, and derive meaningful insights related to survival rates.
-
 ## 🎯 Objectives
 * Understand the dataset structure
 * Perform data cleaning and preprocessing
